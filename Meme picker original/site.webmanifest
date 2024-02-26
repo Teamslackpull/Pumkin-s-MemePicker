@@ -1,0 +1,11 @@
+{
+    "name":"Pumpkin's purffect Meme picker",
+    "short_name":"Meme Picker",
+
+"theme_color":"#563E51",
+
+"background_color":"#ffffff",
+"display":"standalone",
+
+
+}
